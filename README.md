@@ -1,2 +1,2 @@
 # hello-world2
-This repository is for practicing the Github Flow"
+Hello, my name is Juno. This is an exercise to learn GitHub's pull request workflow.
